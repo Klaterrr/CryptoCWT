@@ -43,7 +43,7 @@
     * Для работы некоторых частей кода (связанных с Kaggle) необходимо скачать данные `cryptocurrencypricehistory.zip` с Kaggle (https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) и распаковать их в папку `~/data`.  Однако, основная часть проекта, включая загрузку данных с `yfinance`, работает без этих данных.
     * Данные с Yahoo Finance загружаются автоматически при запуске скрипта.
 3. **Запуск скрипта:**
-    * Запустите Python скрипт, например, `your_script_name.py` (если вы сохранили код в файл `your_script_name.py`).
+    * Запустите блоки Python скриптов внутри Jupyter блокнота.
 
 ## Дальнейшие шаги и развитие проекта
 
